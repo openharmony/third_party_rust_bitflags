@@ -3,7 +3,7 @@
     "Name": "bitflags",
     "License": "Apache License V2.0, MIT",
     "License File": "LICENSE-APACHE, LICENSE-MIT",
-    "Version Number": "1.3.2",
+    "Version Number": "2.9.1",
     "Owner": "fangting12@huawei.com",
     "Upstream URL": "https://github.com/bitflags/bitflags",
     "Description": "A macro that makes it easy to define and work with bitflags in Rust. "
