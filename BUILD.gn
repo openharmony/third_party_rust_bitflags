@@ -26,5 +26,8 @@ if (host_os != "linux" || host_cpu != "arm64") {
     cargo_pkg_name = "bitflags"
     cargo_pkg_description =
         "A macro to generate structures which behave like bitflags."
+    module_output_extension = ".rlib"
+    part_name = "rust_bitflags"
+    subsystem_name = "thirdparty"
   }
 }
